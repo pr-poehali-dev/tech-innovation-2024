@@ -4,7 +4,7 @@ export const sections = [
   {
     id: 'hero',
     subtitle: <Badge variant="outline" className="text-amber-400 border-amber-400 text-sm px-3 py-1">Строительные материалы оптом и в розницу</Badge>,
-    title: "Всё для стройки — в одном месте.",
+    title: "Площадка строит — всё для стройки.",
     showButton: true,
     buttonText: 'Посмотреть каталог'
   },
